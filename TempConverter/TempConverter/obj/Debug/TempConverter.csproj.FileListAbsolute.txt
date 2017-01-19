@@ -1,1 +1,9 @@
 c:\users\michal\documents\visual studio 2015\Projects\TempConverter\TempConverter\bin\Debug\TempConverter.exe.config
+c:\users\michal\documents\visual studio 2015\Projects\TempConverter\TempConverter\bin\Debug\TempConverter.exe
+c:\users\michal\documents\visual studio 2015\Projects\TempConverter\TempConverter\bin\Debug\TempConverter.pdb
+c:\users\michal\documents\visual studio 2015\Projects\TempConverter\TempConverter\obj\Debug\TempConverter.csprojResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2015\Projects\TempConverter\TempConverter\obj\Debug\TempConverter.MainCalc.resources
+c:\users\michal\documents\visual studio 2015\Projects\TempConverter\TempConverter\obj\Debug\TempConverter.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2015\Projects\TempConverter\TempConverter\obj\Debug\TempConverter.csproj.GenerateResource.Cache
+c:\users\michal\documents\visual studio 2015\Projects\TempConverter\TempConverter\obj\Debug\TempConverter.exe
+c:\users\michal\documents\visual studio 2015\Projects\TempConverter\TempConverter\obj\Debug\TempConverter.pdb
